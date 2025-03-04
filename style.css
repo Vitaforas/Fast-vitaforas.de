@@ -17,7 +17,7 @@ body::before, body::after {
 
 head { 
   display: block;
-  background-image:  url(http://vitaforas.de/LOGO.png);
+  background-image:  url(LOGO.png);
   height:20rem;
   width:20rem;
   background-repeat: no-repeat;
