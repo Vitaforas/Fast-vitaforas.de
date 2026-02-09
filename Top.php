@@ -1,3 +1,12 @@
+<?php
+// Dies ist jetzt eine PHP-Datei
+header('Content-Type: text/html; charset=utf-8');
+?>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<!-- rest of your code -->
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
